@@ -1,12 +1,13 @@
 h2.intro {
-  color: lightgoldenrod;
+  color: red;
 }
 
 p.intro {
-  color: lightgoldenrod;
+  color: blue;
   text-style: italic;
 }
 
 img.intro{
   border: black;
+  margin: 15px;
 }
