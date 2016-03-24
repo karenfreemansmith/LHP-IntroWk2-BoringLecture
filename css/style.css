@@ -1,13 +1,19 @@
-h2.intro {
+h2 {
   color: red;
 }
 
-p.intro {
-  color: blue;
-  text-style: italic;
+p {
+  
 }
 
-img.intro{
-  border: black;
+img {
+  border: 1px solid black;
   margin: 15px;
+  width: 150px;
+  float: right;
+}
+
+.intro {
+  color: blue;
+  text-style: italic;
 }
