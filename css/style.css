@@ -1,19 +1,35 @@
-h2 {
-  color: red;
+body {
+  margin: 50px 20px 10px 20px;
+  font-family: veranda, ariel, sans-serif;
 }
 
 p {
-  
+  padding: 5px;
+
+}
+
+h1,h2 {
+  text-align: center;
+  font-family: georgia, serif;
+  color: #880000;
 }
 
 img {
   border: 1px solid black;
   margin: 15px;
-  width: 150px;
-  float: right;
+  width: 300px;
+  max-width: 40%;
+  float: left;
 }
 
 .intro {
-  color: blue;
-  text-style: italic;
+  color: #666666;
+  font-size: 1.1em;
+  font-family: georgia, serif;
+  font-style: italic;
+}
+
+.highlight {
+  background-color: #FAFABD;
+  border: solid 1px black;
 }

@@ -5,13 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Boring Lecture</title>
     <link href="css/style.css" rel="stylesheet">
+    <script src="js/jquery-1.12.2.js"></script>
+    <script src="js/scripts.js"></script>
   </head>
   <body>
     <h1>OSI Model</h1>
-    <h2>Open Systems Interconnection</h2>
-    <div class="intro">
-    <img src="img/osi.png" alt="Illustration of OSI Model"> 
-    <p>A conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to their underlying internal structure and technology. Its goal is the interoperability of diverse communication systems with standard protocols. The model partitions a communication system into abstraction layers. The original version of the model defined seven layers.</p>
+    <h2>(Open Systems Interconnection)</h2>
+    <img src="img/osi.png" alt="Illustration of OSI Model">
+    <div class="intro">    <p>A conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to their underlying internal structure and technology. Its goal is the interoperability of diverse communication systems with standard protocols. The model partitions a communication system into abstraction layers. The original version of the model defined seven layers.</p>
     </div>
     <h3>Layer 1: Physical</h3>
     <p>The physical layer consists of the basic networking hardware transmission technologies of a network. It is a fundamental layer underlying the logical data structures of the higher level functions in a network. Due to the plethora of available hardware technologies with widely varying characteristics, this is perhaps the most complex layer in the OSI architecture.</p>
@@ -34,7 +35,7 @@
     <p>The session layer provides the mechanism for opening, closing and managing a session between end-user application processes, i.e., a semi-permanent dialogue. Communication sessions consist of requests and responses that occur between applications. Session-layer services are commonly used in application environments that make use of remote procedure calls (RPCs).</p>
     <p>An example of a session-layer protocol is the OSI protocol suite session-layer protocol, also known as X.225 or ISO 8327. In case of a connection loss this protocol may try to recover the connection. If a connection is not used for a long period, the session-layer protocol may close it and re-open it. It provides for either full duplex or half-duplex operation and provides synchronization points in the stream of exchanged messages.</p>
     <p>Other examples of session layer implementations include Zone Information Protocol (ZIP) – the AppleTalk protocol that coordinates the name binding process, and Session Control Protocol (SCP) – the DECnet Phase IV session-layer protocol.</p>
-    
+
     <h3>Layer 6: Presentation</h3>
     <p>The presentation layer is responsible for the delivery and formatting of information to the application layer for further processing or display. It relieves the application layer of concern regarding syntactical differences in data representation within the end-user systems. An example of a presentation service would be the conversion of an EBCDIC-coded text computer file to an ASCII-coded file.</p>
     <p>The presentation layer is the lowest layer at which application programmers consider data structure and presentation, instead of simply sending data in the form of datagrams or packets between hosts. This layer deals with issues of string representation - whether they use the Pascal method (an integer length field followed by the specified amount of bytes) or the C/C++ method (null-terminated strings, e.g. "<code>thisisastring\0</code>"). The idea is that the application layer should be able to point at the data to be moved, and the presentation layer will deal with the rest.</p>
