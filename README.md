@@ -1,27 +1,28 @@
-# _Boring Lecture_
+# :sleeping: [Boring Lecture: OSI Model](http://karenfreemansmith.github.io/lecture) :sleeping:
+![project screenshot](/img/screenshot.jpg)
 
-#### _Basic Webpage_
+__Version 1: March 29, 2016__
 
-#### By
-_Karen Freeman-Smith_
+## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
 
-## Description
-_A webpage with lots of text to practice CSS stykes._
+### Description
+__*Basic Webpage*__
 
-## Setup/Installation
-_basic html files, double click to view in web browser_
+Text-dense webpage to practice CSS styles, box model, media queries.
 
-## Known Bugs
-_It's boring stuff_
+### Setup/Installation
+*None required. Clone or download and extract to use*
 
-## Support & Contact
-_ For questions or comments, please email Karen at karenfreemansmith@gmail.com_
+### Support & Contact
+For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
 
-## Technologies Used
-_HTML, CSS_
+### Known Issues
+* Still doesn't look good, improve the css & graphics
 
-###  License
-*GNU*
+### Technologies Used
+###### HTML, CSS
 
+### Legal
+*Licensed under the GNU General Public License v3.0*
 
 Copyright (c) 2016 **_Karen Freeman-Smith_**
