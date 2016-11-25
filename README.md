@@ -23,7 +23,7 @@ HTML, CSS, Bootstrap, JavaScript, jQuery
 *[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 2 Individual Project: Enhance the "boring lecture" from week one by adding highlighting to a paragraph when it is clicked.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk2-Calculator)
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk2-BoringLecture)
 * _OR_
 * Clone directory
 * Open index.html in your favorite browser
