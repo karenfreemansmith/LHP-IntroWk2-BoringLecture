@@ -10,13 +10,22 @@ __*Basic Webpage*__
 
 Text-dense webpage to practice CSS styles, box model, media queries.
 
-## Technologies Used
-HTML, CSS
+# Boring Lecture (OSI Model)
+Version 0.0.2: March 29, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
+
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
+
+![screenshot of project running](screenshot.png)
+
+## Description
+*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 2 Individual Project: Enhance the "boring lecture" from week one by adding highlighting to a paragraph when it is clicked.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk2-Calculator)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
